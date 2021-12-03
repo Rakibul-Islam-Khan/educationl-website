@@ -1,0 +1,12 @@
+.bg-hero{
+    background-image: url("https://images.pexels.com/photos/5088008/pexels-photo-5088008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 680px;
+}
+@media screen and (max-width:767px){
+    .undraw{
+        width: 300px;
+    }
+}
